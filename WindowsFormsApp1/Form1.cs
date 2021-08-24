@@ -26,8 +26,6 @@ namespace WindowsFormsApp1
 
         private void bgWorker_DoWork(object sender, DoWorkEventArgs e)
         {
-
-
             string ErrMsg = string.Empty;
             int x = 60006407;
 
