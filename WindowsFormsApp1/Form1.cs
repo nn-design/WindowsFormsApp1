@@ -50,7 +50,6 @@ namespace WindowsFormsApp1
                     bgWorker.ReportProgress(0, "");
                 }
 
-
                 Thread.Sleep(1000);
 
             }
