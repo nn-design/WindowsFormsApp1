@@ -122,7 +122,6 @@ namespace WindowsFormsApp1
             return st;
         }
 
-
         public void Beep()
         {
             rf_beep(icdev, 10);
